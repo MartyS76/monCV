@@ -1,6 +1,12 @@
 h1 {
     background-size: 15%;
-   background-color:red;
+   background-color:rgb(143, 131, 131);
+   text-align: center;
+    text-size-adjust: 2%;
+    color: black;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h2 {
@@ -8,7 +14,10 @@ h2 {
 }
 
 h3 {
+    text-align: right;
     color: black;
+    margin-top: 45%;
+    margin-right: 5px;
 }
 
 body {
