@@ -1,9 +1,27 @@
 h1 {
-   background-color:red;
+    background-size: 15%;
+   background-color:rgb(143, 131, 131);
+   text-align: center;
+    text-size-adjust: 2%;
+    color: black;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    text-align: right;
+    color: black;
+    margin-top: 45%;
+    margin-right: 5px;
 }
 
 body {
-    color: rgb(12,200,0);
+    color: rgb(250, 250, 250);
 }
 
 em {

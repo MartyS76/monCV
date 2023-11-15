@@ -1,0 +1,73 @@
+h1 {
+    text-align: center;
+    text-size-adjust: 2%;
+    color: black;
+    border: 5px solid grey;
+    margin-top: 5px;
+    width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(212, 199, 201);
+}
+h2 {
+    text-align: center;
+    text-size-adjust: 2%;
+    color: black;
+    border: 5px solid rgb(155, 147, 148);
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgb(214, 205, 205);
+}
+
+header{
+    border: 5px solid grey;
+    background-color: rgb(139, 123, 228);
+}
+
+
+
+div.flex {
+    display: flex;
+}
+
+section {
+    margin-top: 5px;
+    margin-right:2.5px;
+    color: black;
+    background-color: rgb(247, 245, 245);
+    border: 5px solid grey;
+    flex: 0.5;
+    font-size: 130%;
+}
+
+aside {
+    margin-top: 5px;
+    margin-left:2.5px;
+    color: black;
+    background-color: rgb(247, 245, 245);
+    border: 5px solid grey;
+    flex:1;
+    font-size: 130%;
+}
+
+nav {
+    margin-top: 5px;
+    color: black;
+    background-color: rgb(247, 245, 245);
+    border: 5px solid grey;
+    font-size: 130%;
+}
+
+hr {
+    width: 600px;
+    margin-left: 0.5%;
+}
+
+li {
+    line-height: 1cm;
+}
+
+h4{
+    padding: 8px;
+}
